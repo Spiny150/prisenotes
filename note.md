@@ -4,7 +4,7 @@ MATH 07/05/2024
 ### 4.15
 R est **réflexive** car tout nombre entier naturel est un diviseur de lui-même.  
 R est **antisymétrique** car si *x* divise *y* et si *y* divise *x* , alors *x* = *y*.  
-R est **transitive** car si *x* divise *y* et *y* divise *z* alors *x* divise *z*.  
+R est **transitive** car si *x* divise *y* et *y* divise *z* alors *x* divise *z*.
 La relation R est donc une **relation d'ordre*** et c'est un **ordre partiel*** pour 2 entiers naturels quelconques *x* et *y* on a pas forcémment *x* qui divise *y* ou *y* qui divise *x*.
 
 ### 4.16
