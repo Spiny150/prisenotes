@@ -30,3 +30,10 @@ R n'est pas **réflexive** car pour tout A différent
 ### 4.20
  Soit E = {1;2;3;4;5;6;7;8;9}  
 Tout élément de E  est en relation avec lui-même d'aprés la partie "*x* = *y*" donc R est **réflexive**
+
+
+
+
+
+
+
