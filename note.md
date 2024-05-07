@@ -31,5 +31,6 @@ R n'est pas **réflexive** car pour tout A différent
  Soit E = {1;2;3;4;5;6;7;8;9}  
 Tout élément de E  est en relation avec lui-même d'aprés la partie "*x* = *y*" donc R est **réflexive**
 
+j'ajoute du texte lol
 
-coucou ça va
+coucou ça va maintenant tu es là
